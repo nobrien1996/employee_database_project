@@ -25,6 +25,8 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 Here is a link to the original source code:
 https://github.com/coding-boot-camp/curly-potato
 
-Here is a link to my deployed application:
+Here is a link to my GitHut repository application:
+https://github.com/nobrien1996/module-3-challenge
 
 Here is a screenshot of my deployed application:
+![alt text](image.png)
